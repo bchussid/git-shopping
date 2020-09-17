@@ -1,5 +1,6 @@
 coffee
 fruit
 beer
-contact solution
+salad
+ice cream
 
